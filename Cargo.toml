@@ -1,0 +1,10 @@
+[package]
+name = "shorsAlgorithm"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rand = "0.8.0"
+num-bigint = { version = "0.4", features = ["rand"] }
+num-integer = "0.1"
+num-traits = "0.2"
